@@ -20,5 +20,5 @@ If you want to create your own website with your list of movies, change the `ent
 
 # License
 
-Was built as a part of Udacity Full Stack Web Developer Nanodegree Program
+Was built as a part of Udacity Full Stack Web Developer Nanodegree Program https://github.com/udacity
 
