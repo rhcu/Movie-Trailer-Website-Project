@@ -18,8 +18,8 @@ If you want to create your own website with your list of movies, change the `ent
 
 # Screenshots
 
-![alt text](https://pp.userapi.com/c638726/v638726834/5e247/vT2isf7oo2w.jpg)
-![alt text](https://pp.userapi.com/c638726/v638726834/5e23f/zbhDgIByvbE.jpg)
+![alt text](https://pp.userapi.com/c638726/v638726834/5e25b/8_pITVGiWeM.jpg)
+![alt text](https://pp.userapi.com/c638726/v638726834/5e253/EV0-AwQ2Ecc.jpg)
 
 # License
 
