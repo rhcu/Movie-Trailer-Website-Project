@@ -9,8 +9,11 @@ Install Python 2.7 on your computer, clone the repository and run the `entertain
 # Usage
 
 To use the website you can just run the required script, which opens the web page in your browser and in order to watch trailers you need to click on the desired movie.
+
 If you want to create your own website with your list of movies, change the `entertainment_center.py` replacing existing movies with your own by the pattern:
+
 `your_movie = media.Movie("Title", "Description", "Poster Url", "Youtube Trailer Url"`
+
 `movies = [your_movie]`
 
 # Screenshots
