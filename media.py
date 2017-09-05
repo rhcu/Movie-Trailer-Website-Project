@@ -1,9 +1,14 @@
 import webbrowser
+
+
 class Movie():
-    """This class provides a way to store movie related information such as its title, description, poster url and youtube trailer url. 
+    """This class provides a way to store movie related information 
+    such as its title, description, poster url 
+    and youtube trailer url. 
     The function show_trailer(self) allows to watch the trailer"""
     
-    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
+    def __init__(self, movie_title, movie_storyline, poster_image,
+                 trailer_youtube):
         """ Constructor for class Movie objects.
 
         :param movie_title: movie title
